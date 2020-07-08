@@ -1,18 +1,27 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: 연어는 누구인가
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+정보보안에 관심이 많은 고3 학생입니다. 잠시 대학 입시 준비로 모든 활동을 중단했으며 입시가 끝나는대로 활동을 시작할 예정입니다.
 
-### Getting Started
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### 학력
 
-### Example Content
+2009 ~ 2012: 목포옥암초등학교 재학
+2013 ~ 2015.02: 남악초등학교 졸업
+2015.03 ~ 2018.02: 오룡중학교 졸업
+2018.03 ~ :무안고등학교 재학
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### 소속
 
-### Questions?
+2020.03 ~ : [Dropper Lab](https://dropper.tech)
+2020.03 ~ : 국립목포대학교 정보보호영재교육원 7기 고등전문
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### 전적
+
+2020.03 ~ : [KOVID-19 Dropper API](https://api.dropper.tech) Developer
+
+2019.03 ~ 2019.11: 국립목포대학교 정보보호영재교육원 6기 고등전문 수료 (2019년 3월 23일~2019년 11월)
+2018.02 ~ 2019.01: 국립목포대학교 정보보호영재교육원 5기 중등심화 수료 (2018년 3월 2일~2019년)
+2017.03 ~ 2018.01: 국립목포대학교 정보보호영재교육원 4기 중등기초 수료 (2017년 3월 2일~2018년 1월)
